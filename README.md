@@ -1,1 +1,1 @@
-Jeux Produit en croix codé en javas
+Jeux Produit en croix codé en javaS cript
